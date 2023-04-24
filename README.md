@@ -1,5 +1,4 @@
 - 👋 Hi, my name is Sergio
 - 👀 I’m interested in everything arround technology, but specialy on full stack development
 - 🌱 I’m always learning new technologies
-- ❤  I would love to dedicate myself to cybersecurity
 - 📫 How to reach me: https://about.me/sergiocervera
